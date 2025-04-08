@@ -59,6 +59,7 @@ struct ContentView: View {
                             }
                         }
                     }
+                    .onDelete(perform: removeItems(offsets:))
                 }
                 .containerRelativeFrame(.vertical) { height, axis in
                     height * 1
@@ -74,6 +75,10 @@ struct ContentView: View {
                 }
             }
         }
+    }
+    
+    func removeItems(offsets: IndexSet) {
+        activities.activities.remove(atOffsets: offsets)
     }
 }
 

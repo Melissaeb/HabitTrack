@@ -16,7 +16,9 @@ struct ActivityView: View {
     var body: some View {
         NavigationStack {
             Form {
-                Text(activity.description)
+                if !activity.description.isEmpty {
+                    Text(activity.description)
+                }
                 HStack {
                     Text("Times completed: \(activity.timesCompleted)")
                     Spacer()
