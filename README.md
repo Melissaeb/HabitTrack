@@ -10,16 +10,20 @@ HabitTrack allows you to:
 * **Mark progress:** Check off habits as you complete them each day.
 * **Visualize your streaks:** See how many consecutive days you've successfully completed a habit, saved right to your phone.
 
-## Screen Recording
+## Demo
 
-[![Watch the demo]([link-to-your-placeholder-image.png](https://github.com/Melissaeb/HabitTrack/blob/main/HabitTrack/Assets.xcassets/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-08%20at%2014.25.31.imageset/Simulator%20Screenshot%20-%20iPhone%2016%20Pro%20-%202025-04-08%20at%2014.25.31.png?raw=true
-))](https://www.youtube.com/shorts/pwnyvZCTbRI)
+<p align="center">
+  <a href="https://www.youtube.com/shorts/pwnyvZCTbRI">
+    <img src="HabitTrack/screenshot.png" alt="HabitTrack Demo" width="300">
+  </a>
+</p>
 
-A short (~35 second) screen recording demonstrating the core functionality of the HabitTrack app is available at [https://www.youtube.com/shorts/pwnyvZCTbRI](https://www.youtube.com/shorts/pwnyvZCTbRI). This video showcases:
+A short screen recording demonstrating the core functionality of the HabitTrack app is available at [https://www.youtube.com/shorts/pwnyvZCTbRI](https://www.youtube.com/shorts/pwnyvZCTbRI). The video demos:
 
 * Creating a new habit.
 * Marking a habit as complete.
 * Viewing the habit streak.
+* Deleting a habit.
 * Navigating through the app.
 
 ## Getting Started
